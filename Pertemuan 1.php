@@ -16,7 +16,7 @@ class Property {
     public function getlabel() {
 
         return "$this->jenis, $this->type";
-    }
+    } 
 
     public function getInfoProperty() {
 
